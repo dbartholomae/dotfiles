@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "editor.codeActionsOnSave": null,
+  "editor.formatOnSave": true,
+  "debug.inlineValues": true,
+  "telemetry.enableTelemetry": false,
+  "jest.enableInlineErrorMessages": true
+}
